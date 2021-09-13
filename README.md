@@ -8,8 +8,8 @@
 - 데이터가 더이상 없다고 판단되면 추가하는 액션을 중지합니다.
 - 아이템을 클릭하면 modal에 상세정보를 출력하고 조회가 이루어졌다는 api call을 합니다.
 - 주소형식은 
-  - bubun이 있을 경우 <sido> <sigungu> <dong> <bonbun>-<bubun> 입니다.
-  - bubun이 없을 경우 <sido> <sigungu> <dong> <bonbun> 입니다.
+  - bubun이 있을 경우 `<sido> <sigungu> <dong> <bonbun>-<bubun>` 입니다.
+  - bubun이 없을 경우 `<sido> <sigungu> <dong> <bonbun>` 입니다.
 - 가격이 여러개일 경우 보증금이 제일 높은 것을 출력합니다.
 
 ## 참고사항
