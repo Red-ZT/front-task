@@ -55,4 +55,7 @@
 ```
   
 ### 조회
-`POST http://api.testing.zipt.cc/properties/<id>/hit`
+```
+POST http://api.testing.zipt.cc/properties/<id>/hit
+(status code 200, 응답본문없음)
+```
